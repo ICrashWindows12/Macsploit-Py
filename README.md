@@ -8,3 +8,13 @@ Macsploit API but Python
 - Should work out of the box
 
 ```python3 msapipy.py```
+# Notes
+- Run when you have installed the trial or bought macsploit
+- Python because I like it (and because the other msapi in python don't work and not updated)
+- Can be used in your own projects (as long as you shout me out and the repo)
+- enjoy (real trust im telling you)
+  
+
+# Updates
+- When there is new execution update method or update to Macsploit API it will be updated but yeah for now just sitting there
+- Maybe occasional fixes and tweaks (don't have time for it lol)
