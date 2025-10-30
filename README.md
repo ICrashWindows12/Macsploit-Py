@@ -12,6 +12,7 @@ Macsploit API but Python
 - Run when you have installed the trial or bought macsploit
 - Python because I like it (and because the other msapi in python don't work and not updated)
 - Can be used in your own projects (as long as you shout me out and the repo)
+- Macsploit needs to be closed for this work 
 - enjoy (real trust im telling you)
   
 
